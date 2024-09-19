@@ -1,2 +1,2 @@
-# ejemplo2024
+# Ejemplo
 Ejemplo de repositorio 
